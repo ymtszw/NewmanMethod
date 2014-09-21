@@ -1,0 +1,4 @@
+NewmanMethod
+============
+
+Newman method
